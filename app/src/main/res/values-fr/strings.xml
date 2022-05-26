@@ -1,4 +1,10 @@
 <resources>
-    <string name="app_name">My First Application</string>
+    <string name="app_name">Ma premiere application</string>
     <string name="hello">Bonjour</string>
+    <string name="android">J\aime Android</string>
+    <string name="press">PRESSE MOI</string>
+    <string name="check">Regardez ceci!</string>
+    <string name="love">J\aime Android</string>
+    <string name="toast_message">L\étiquette a été mise à jour.</string>
+    <string name="snackbar_message">La case à cocher est maintenant</string>
 </resources>
